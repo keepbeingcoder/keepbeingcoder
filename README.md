@@ -1,12 +1,12 @@
 <picture>
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/main/dark.svg">
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/main/light.svg">
-<img alt="YOUR NAME" src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/
-light.svg">
-</picture>
-<!--
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/keepbeingcoder/keepbeingcoder/main/dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/keepbeingcoder/keepbeingcoder/main/light.svg">
+  <img alt="Akash Deepu Jacob" src="https://raw.githubusercontent.com/keepbeingcoder/keepbeingcoder/main/light.svg">
+</picture><!--
 **keepbeingcoder/keepbeingcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
